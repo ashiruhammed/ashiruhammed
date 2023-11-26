@@ -47,3 +47,17 @@
   
   <br/><br/><br/>
 </div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<img src="https://streak-stats.demolab.com?user=ashiruhammed" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ashiruhammed" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiruhammed" alt="top langs" />
+</div>
+
+<br/><br/>
+
